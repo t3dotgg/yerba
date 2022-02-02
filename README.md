@@ -1,5 +1,7 @@
 # Yerba
 
+![assets/example.png](assets/example.png)
+
 An Electron Monorepo Demo
 
 Uses:
