@@ -1,0 +1,10 @@
+{
+  "extends": "tsconfig/nextjs.json",
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "../electron/layers/preload/exposedInMainWorld.d.ts"
+  ],
+  "exclude": ["node_modules"]
+}
